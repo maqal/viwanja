@@ -1,0 +1,79 @@
+{
+  "muombaji": [
+    {
+      "id": "273927356",
+      "name": "ABASS ALI HASSAN",
+      "gender": "Male",
+      "phone": "0777575446",
+      "district": "KASK B",
+      "shehia": "DONGE",
+      "street": "MTAMBILE"
+    },
+    {
+      "id": "060057290",
+      "name": "AMINA ALI HAJI",
+      "gender": "Female",
+      "phone": "0774928736",
+      "district": "MJINI",
+      "shehia": "CHUMBUNI",
+      "street": "COTEX"
+    }
+  ],
+  "muombewa": [
+    {
+      "id": 1,
+      "name": "SAUMU ALI HASSAN",
+      "gender": "Female",
+      "phone": "0772581945",
+      "district": "KASK A",
+      "shehia": "GAMBA",
+      "street": "WILAYANI",
+      "zanId": "283024814"
+    },
+    {
+      "id": 2,
+      "name": "ALI HAJI AME",
+      "gender": "Male",
+      "phone": "0773820945",
+      "district": "KATI",
+      "shehia": "BINGUNI",
+      "street": "MAKONTENA",
+      "zanId": "280041834"
+    }
+  ],
+  "user": [
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "admin",
+      "role": "ADMIN"
+    },
+    {
+      "id": "prey",
+      "username": "prey",
+      "password": "prey",
+      "role": "ARDHI"
+    },
+    {
+      "id": "hitman",
+      "username": "hitman",
+      "password": "hitman",
+      "role": "MASHAMBA"
+    }
+  ],
+  "ukaguzi1": [
+    {
+      "id": "273927356",
+      "comment": "ok"
+    },
+    {
+      "id": "eHtPfKL"
+    }
+  ],
+  "ukaguzi2": [
+    {
+      "id": "273927356",
+      "comment": "DONE"
+    }
+  ]
+}
